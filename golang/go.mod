@@ -1,3 +1,3 @@
-module github.com/huseyinbabal/microservices-proto/golang
+module github.com/snirkop89/microservices-proto/golang
 
 go 1.20
